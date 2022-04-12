@@ -46293,8 +46293,8 @@ S(a,b){return new A.pC(new A.qE(null),"\uc624\uc885\ud604 | Jonghyun Oh",A.a3z(n
 A.qE.prototype={
 aM(){return new A.EL(B.o)}}
 A.EL.prototype={
-S(a,b){var s=null,r=new A.da(B.p_,5,B.aQ),q=A.IT(s,s,s,new A.eZ(s,new A.wx(new A.o7("repo/profileTest.jpg")),new A.cB(r,r,r,r),s,s,s,B.rq),150,s,s,150),p=t.R,o=A.Za(A.a([A.a3w("\uc624\uc885\ud604",A.mS(s,s,s,s,s,s,s,s,s,s,s,30,s,B.aY,s,s,!0,s,s,s,s,s,s,s,s)),A.a3w("OH JONG HYUN",A.mS(s,s,B.Aq,s,s,s,s,s,s,s,s,15,s,s,s,s,!0,s,s,s,s,s,s,s,s))],p),B.cc),n=b.a9(t.l).f
-return new A.qI(A.Za(A.a([A.a3e(A.a([new A.iu(new A.bz(10,10,10,10),q,s),A.Za(A.a([new A.iu(new A.bz(5,0,0,3),o,s),A.IT(s,s,s,new A.eZ(B.p_,s,s,A.a1o(50),s,s,B.bp),5,s,s,n.a.a-200)],p),B.cc)],p),B.ed)],p),B.jw),s)}}
+S(a,b){var s=null,r=new A.da(B.p_,5,B.aQ),q=A.IT(s,s,s,new A.eZ(s,new A.wx(new A.o7("repo/profileTest.jpg")),new A.cB(r,r,r,r),s,s,s,B.rq),100,s,s,100),p=t.R,o=A.Za(A.a([A.a3w("\uc624\uc885\ud604",A.mS(s,s,s,s,s,s,s,s,s,s,s,30,s,B.aY,s,s,!0,s,s,s,s,s,s,s,s)),A.a3w("OH JONG HYUN",A.mS(s,s,B.Aq,s,s,s,s,s,s,s,s,15,s,s,s,s,!0,s,s,s,s,s,s,s,s))],p),B.cc),n=b.a9(t.l).f
+return new A.qI(A.Za(A.a([A.a3e(A.a([new A.iu(new A.bz(10,10,10,10),q,s),A.Za(A.a([new A.iu(new A.bz(5,0,0,3),o,s),A.IT(s,s,s,new A.eZ(B.p_,s,s,A.a1o(50),s,s,B.bp),5,s,s,n.a.a-150)],p),B.cc)],p),B.ed)],p),B.jw),s)}}
 A.hG.prototype={
 gl(a){return this.b},
 i(a,b){if(b>=this.b)throw A.b(A.bb(b,this,null,null,null))
