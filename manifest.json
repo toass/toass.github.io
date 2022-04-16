@@ -15,9 +15,9 @@
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-512.png",
+            "src": "icons/Icon-512.jpg",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "image/jpg"
         },
         {
             "src": "icons/Icon-maskable-192.png",
