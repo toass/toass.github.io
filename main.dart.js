@@ -54467,7 +54467,7 @@ l=A.QY(B.K,20)
 c=a3.Y(c).f
 k=A.ck("2020.02. ~ 2020.04.",A.cl(g,g,B.bd,g,g,g,g,g,g,g,g,15,g,g,g,g,!0,g,g,g,g,g,g,g,g),B.aX,g)
 j=A.ck("\uc6b0\ub9ac\ubc18 \ucd9c\uc11d\uccb4\ud06c \uc571 \uac1c\ubc1c",A.cl(g,g,g,g,g,g,g,g,g,g,g,20,g,B.Z,g,g,!0,g,g,g,g,g,g,g,g),B.aX,g)
-i=A.ck("\ucf54\ub85c\ub098\uac00 \ub9c9 \ud65c\uc131\ud654\ub418\uc5c8\uae30 \ub54c\ubb38\uc5d0 \uacf5\uc2dd\uc801\uc778 \uc628\ub77c\uc778 \ucd9c\uc11d\uccb4\ud06c \uc2dc\uc2a4\ud15c\uc774 \uc900\ube44\ub418\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4. \ud559\uc0dd \ubaa8\ub450\uac00 \ub9e4\uad50\uc2dc\ub9c8\ub2e4 \uc218\uae30\ub85c \ucd9c\uc11d\uc744 \ud558\uace0 \uc120\uc0dd\ub2d8\uaed8\uc11c \uc77c\uc77c\uc774 \uc218\ub3d9\uc73c\ub85c \ud655\uc778\ud558\uc154\uc57c \ud588\uc2b5\ub2c8\ub2e4. \uc774\ub54c \uc6b0\ub9ac\ubc18 \ucd9c\uc11d\uccb4\ud06c \uc571\uc744 \uac1c\ubc1c\ud558\uc5ec \uacf5\uc2dd \uc628\ub77c\uc778 \ucd9c\uc11d\uccb4\ud06c\uac00 \ub098\uc624\uae30 \uc804\uae4c\uc9c0 \uc0ac\uc6a9\ud558\uc600\uc2b5\ub2c8\ub2e4. ",g,B.aX,g)
+i=A.ck("\ucf54\ub85c\ub098\uac00 \ub9c9 \ud65c\uc131\ud654\ub418\uc5c8\uae30 \ub54c\ubb38\uc5d0 \uacf5\uc2dd\uc801\uc778 \uc628\ub77c\uc778 \ucd9c\uc11d\uccb4\ud06c \uc2dc\uc2a4\ud15c\uc774 \uc900\ube44\ub418\uc9c0 \uc54a\uc558\uc2b5\ub2c8\ub2e4. \ud559\uc0dd \ubaa8\ub450\uac00 \ub9e4\uad50\uc2dc\ub9c8\ub2e4 \uc218\uae30\ub85c \ucd9c\uc11d\uc744 \ud558\uace0 \uc120\uc0dd\ub2d8\uaed8\uc11c \uc77c\uc77c\uc774 \uc218\ub3d9\uc73c\ub85c \ud655\uc778\ud558\uc154\uc57c \ud588\uc2b5\ub2c8\ub2e4. \uc774\ub54c \uc6b0\ub9ac\ubc18 \ucd9c\uc11d\uccb4\ud06c \uc571\uc744 \uac1c\ubc1c\ud558\uc5ec \uacf5\uc2dd \uc628\ub77c\uc778 \ucd9c\uc11d\uccb4\ud06c\uac00 \ub098\uc624\uae30 \uc804\uae4c\uc9c0 \uc0ac\uc6a9\ud558\uc600\uc2b5\ub2c8\ub2e4.\n",g,B.aX,g)
 h=A.iy(A.a([A.a5b("https://play-lh.googleusercontent.com/DfRZQISSHkH9R7iAj4gg_lZj8BX_sAJFNGmLaaYO6Ef9eUyKFpviYjaKqwyd2bv2GOAP=w1536-h664-rw",200),A.cX(g,g,10),A.a5b("https://play-lh.googleusercontent.com/f6WGslG1-y5JbVol3gqbixRj0Z9JVQoOeaTo-R8XxFDCVV8n_ZECJYThHIZSFxCOgZ8=w1536-h664-rw",200),A.cX(g,g,10),A.a5b("https://play-lh.googleusercontent.com/w6RfWM1bibl5DTHyKDpzFIxuoZfEiG2dZGp9eVfxNFJSDEQFqk8YkKHDHJPwnD3ij6Ds=w1536-h664-rw",200)],a1),B.aa,B.O)
 c=A.a5R(A.a5Q(A.a([A.dY(g,new A.dr(new A.b5(10,10,10,0),A.mK(A.a([r,q,a,o,n,m,A.YS(new A.h5(B.K,6),B.dM,new A.h5(B.K,6),g,l,!1,!0,0.95,new A.dr(new A.b5(c.a.a*0.1,30,10,30),A.mK(A.a([k,j,i,new A.Ec(B.an,!1,h,g),new A.qT(A.ck("\u2192 Play store \ud655\uc778\ud558\uae30",A.cl(g,g,g,g,g,g,g,g,g,g,g,15,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g),new A.a1q(),10,g)],a1),B.cU,B.bc,B.O),g))],a1),B.aa,B.bc,B.O),g),new A.A(16448250),g,g,g,g,g)],a1)))
 a=A.cX(g,g,10)
@@ -54494,11 +54494,11 @@ A.a1p.prototype={
 $0(){var s=0,r=A.a5(t.H)
 var $async$$0=A.a6(function(a,b){if(a===1)return A.a2(b,r)
 while(true)switch(s){case 0:s=5
-return A.a7(A.yt(u.h),$async$$0)
+return A.a7(A.yt("https://github.com/toass/-7-Text-mining-"),$async$$0)
 case 5:s=b?2:4
 break
 case 2:s=6
-return A.a7(A.yA(u.h),$async$$0)
+return A.a7(A.yA("https://github.com/toass/-7-Text-mining-"),$async$$0)
 case 6:s=3
 break
 case 4:throw A.c("\uc624\ub958\uac00 \ubc1c\uc0dd\ud558\uc600\uc2b5\ub2c8\ub2e4")
